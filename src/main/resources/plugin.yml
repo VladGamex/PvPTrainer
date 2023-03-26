@@ -1,0 +1,10 @@
+name: PvPTrainer
+version: '${project.version}'
+main: de.gamexlive.pvptrainer.PvPTrainer
+api-version: 1.19
+commands:
+  create:
+    description: oeffnet eine lobby
+    usage: /<command>
+  stopLobby:
+    description: Test
